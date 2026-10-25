@@ -1,0 +1,17 @@
+# Simulink / MATLAB generated
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.mex*
+*.log
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+**/html/
+.SimulinkProject/
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

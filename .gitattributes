@@ -1,0 +1,8 @@
+# Simulink models are binary: never auto-merge
+*.slx binary
+*.mdl binary
+*.mat binary
+*.slxp binary
+*.prj binary
+*.mlx binary
+*.m text
